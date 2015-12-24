@@ -12,6 +12,8 @@ with no more and no less functionality.
 * IV: feature parity. Testing, reliability, performance, refactoring.
 * V: stable
 
+Existing tools are on the left, replacements are on the right.
+
 Org | Project | Toolname | Replacement Name | Project | Org | Status
 --- | --- | --- | --- | --- | --- | ---
 Gnu | Coreutils | Echo | uutils echo | [uutils coreutils][uutils coreutils]| [uutils][uutils] | II
