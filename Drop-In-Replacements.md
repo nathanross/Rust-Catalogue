@@ -14,7 +14,7 @@ with no more and no less functionality.
 
 Org | Project | Toolname | Replacement Name | Project | Org | Status
 --- | --- | --- | --- | --- | --- | ---
-Gnu | Coreutils | Echo | uutils echo | [Uutils coreutils][uutils coreutils]| [uutils][uutils] | II
+Gnu | Coreutils | Echo | uutils echo | [uutils coreutils][uutils coreutils]| [uutils][uutils] | II
 
 
 ### Why make drop-in replacements? Why not make new, better designed programs?
