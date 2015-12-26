@@ -31,7 +31,7 @@ Extremely popular patterns in the community for solving common problems
 * [```crates.io```](https://crates.io)
   * find libraries using sort by popularity, and the powerful search function
   * [```cargo``` documentation](http://doc.crates.io/)
-* [```rustkit.io```](http://rustkit.io/) - useful for finding libraries
+* [```rustkit.io```](http://rustkit.io/) - useful for finding libraries, does not search over all of crates.io, just a subset provided in its repo.
 * [```rustdocs.org```](https://rustdocs.org)
 * [```areweideyet.org``` - are we ide yet](https://areweideyet.com) - "awesome list" of various ide plugins for rust support
 
