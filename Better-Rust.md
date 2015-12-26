@@ -19,13 +19,13 @@ Extremely popular patterns in the community for solving common problems
 
 ## Community resources
 
+* [```play.rust-lang.org``` (rust playground)](https://play.rust-lang.org/)
 * [```rust-lang.org```](https://rust-lang.org)
   * nightly
     * [reference](https://doc.rust-lang.org/nightly/reference.html) | [libstd reference](https://doc.rust-lang.org/nightly/std/index.html) | [rustdoc ref](https://doc.rust-lang.org/nightly/book/documentation.html)
     * learn: [The Rust Book](https://doc.rust-lang.org/nightly/book/) | [Rust By Example](http://rustbyexample.com/)
 * [```crates.io```](https://crates.io)
   * [```cargo``` documentation](http://doc.crates.io/)
-* [```play.rust-lang.org``` (rust playground)](https://play.rust-lang.org/)
 * [```rustdocs.org```](https://rustdocs.org)
 
 ## Essential tools - (almost) Universally useful
