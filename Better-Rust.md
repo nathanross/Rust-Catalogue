@@ -10,6 +10,7 @@ Because these articles are not explicitly stated to be maintained by a core team
 
 * [NRC's Rust Design Patterns repo](https://github.com/nrc/patterns) (extremely helpful!)
 * [Daniel Keep's iter cheat sheet](https://danielkeep.github.io/itercheat_baked.html)
+* [Effectively using iterators in rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html)
 * [Using the option type effectively](blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html)
 * [Periodic table of rust types](http://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/)
 
