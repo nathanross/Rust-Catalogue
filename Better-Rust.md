@@ -1,6 +1,6 @@
 #Better rust
 
-An "awesome"-type list (like [awesome rust](https://github.com/kud1ing/awesome-rust)) focused on the most essential references and resources.
+An "awesome"-type list (like [awesome rust](https://github.com/kud1ing/awesome-rust)) focused on the most essential references and resources. Focused on knowledge and tools-as-community-conventions rather than tools per se.
 
 ## Out of the Box
 
