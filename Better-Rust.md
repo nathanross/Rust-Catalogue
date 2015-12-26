@@ -20,7 +20,8 @@ Because these articles are not explicitly stated to be maintained by a core team
 
 Extremely popular patterns in the community for solving common problems
 
-[throw!](https://github.com/daboross/rust-throw)
+* Error trait
+* [Tutorial: how to collect test coverages for a rust project](https://users.rust-lang.org/t/tutorial-how-to-collect-test-coverages-for-rust-project/650)
 
 ## Community resources
 
