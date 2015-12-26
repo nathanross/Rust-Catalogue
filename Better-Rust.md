@@ -29,7 +29,12 @@ Extremely popular patterns in the community for solving common problems
 ## Community resources
 
 * [rust-lang.org](https://rust-lang.org)
+  * nightly
+    * [book](https://doc.rust-lang.org/nightly/book/)
+    * [reference](https://doc.rust-lang.org/nightly/reference.html)
+    * 
 * [crates.io](https://crates.io)
+  * [```cargo``` documentation](http://doc.crates.io/)
 * [rustdocs.org](https://rustdocs.org)
 
 
