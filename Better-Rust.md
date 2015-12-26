@@ -40,3 +40,4 @@ Extremely popular patterns in the community for solving common problems
 ## Shout-out to
 
 * [```cargo-script```](https://github.com/DanielKeep/cargo-script)
+* [```libhoare```](https://github.com/nrc/libhoare) - high-powered design by contract in rust (until we get dependent types)
