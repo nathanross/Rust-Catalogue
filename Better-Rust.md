@@ -18,7 +18,8 @@ Extremely popular patterns in the community for solving common problems
 
 ## (almost) Universally useful
 
-[cargo check](https://github.com/rsolomo/cargo-check)
+* [cargo watch](https://github.com/passcod/cargo-watch) - recompile source code as it changes
+* [cargo check](https://github.com/rsolomo/cargo-check) - instead of compiling source code, just get errors and warnings (less time/processor usage)
 
 ## Community resources
 
