@@ -6,6 +6,8 @@ Links to articles that provide high-level overviews of the rust strengths enumer
 
 ### zero-cost abstractions
 
+[Abstraction without overhead: Traits in Rust](http://blog.rust-lang.org/2015/05/11/traits.html) (Rust Language blog)
+
 ### move semantics
 
 ### guaranteed memory safety
@@ -22,7 +24,7 @@ Links to articles that provide high-level overviews of the rust strengths enumer
 
 ### efficient C bindings
 
-[Rust once, run everywhere](http://blog.rust-lang.org/2015/04/24/Rust-Once-Run-Everywhere.html)
+[Rust once, run everywhere](http://blog.rust-lang.org/2015/04/24/Rust-Once-Run-Everywhere.html) (Rust Language blog)
 
 ##Generally
 
