@@ -14,6 +14,7 @@ Links to articles that provide high-level overviews of the rust strengths enumer
 
 ### threads without data races
 
+[Fearless concurrency](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html) (Rust Language blog)
 [Must be this tall to write multi-threaded code](http://bholley.net/blog/2015/must-be-this-tall-to-write-multi-threaded-code.html)
 
 ### trait-based generics
