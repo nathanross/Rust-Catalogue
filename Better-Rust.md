@@ -1,5 +1,7 @@
 #Better rust
 
+An "awesome"-type list (like [awesome rust](https://github.com/kud1ing/awesome-rust)) focused on the most essential references and resources.
+
 ## Out of the Box
 
 Understand out-of-the-box lang and libstd features better to make better use of them in your code!
