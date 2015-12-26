@@ -29,7 +29,9 @@ Extremely popular patterns in the community for solving common problems
     * [reference](https://doc.rust-lang.org/nightly/reference.html) | [libstd reference](https://doc.rust-lang.org/nightly/std/index.html) | [rustdoc ref](https://doc.rust-lang.org/nightly/book/documentation.html)
     * learn: [The Rust Book](https://doc.rust-lang.org/nightly/book/) | [Rust By Example](http://rustbyexample.com/)
 * [```crates.io```](https://crates.io)
+  * find libraries using sort by popularity, and the powerful search function
   * [```cargo``` documentation](http://doc.crates.io/)
+* [```rustkit.io```](http://rustkit.io/) - useful for finding libraries
 * [```rustdocs.org```](https://rustdocs.org)
 * [```areweideyet.org``` - are we ide yet](https://areweideyet.com) - "awesome list" of various ide plugins for rust support
 
