@@ -19,13 +19,13 @@ Extremely popular patterns in the community for solving common problems
 
 ## Community resources
 
-* [rust-lang.org](https://rust-lang.org)
+* [```rust-lang.org```](https://rust-lang.org)
   * nightly
     * [reference](https://doc.rust-lang.org/nightly/reference.html) | [libstd reference](https://doc.rust-lang.org/nightly/std/index.html) | [rustdoc ref](https://doc.rust-lang.org/nightly/book/documentation.html)
     * learn: [The Rust Book](https://doc.rust-lang.org/nightly/book/) | [Rust By Example](http://rustbyexample.com/)
-* [crates.io](https://crates.io)
+* [```crates.io```](https://crates.io)
   * [```cargo``` documentation](http://doc.crates.io/)
-* [rustdocs.org](https://rustdocs.org)
+* [```rustdocs.org```](https://rustdocs.org)
 
 ## Essential tools - (almost) Universally useful
 
@@ -38,4 +38,4 @@ Extremely popular patterns in the community for solving common problems
 
 ## Shout-out to
 
-* [cargo-script](https://github.com/DanielKeep/cargo-script)
+* [```cargo-script```](https://github.com/DanielKeep/cargo-script)
