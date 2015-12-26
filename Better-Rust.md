@@ -29,7 +29,13 @@ Extremely popular patterns in the community for solving common problems
     * [reference](https://doc.rust-lang.org/nightly/reference.html) | [libstd reference](https://doc.rust-lang.org/nightly/std/index.html) | [rustdoc ref](https://doc.rust-lang.org/nightly/book/documentation.html)
     * learn: [The Rust Book](https://doc.rust-lang.org/nightly/book/) | [Rust By Example](http://rustbyexample.com/)
 * [```crates.io```](https://crates.io)
-  * find libraries using sort by popularity, and the powerful search function
+  * find libraries 
+    * using sort by popularity
+    * the powerful search function
+  * decide libraries by
+    * seeing community size (via num. downloads over time)
+    * reading descriptions extracted from cargo.toml
+    * visiting linked repository page.
   * [```cargo``` documentation](http://doc.crates.io/)
 * [```rustkit.io```](http://rustkit.io/) - useful for finding libraries, does not search over all of crates.io, just a subset provided in its repo.
 * [```rustdocs.org```](https://rustdocs.org)
