@@ -24,7 +24,7 @@ Extremely popular patterns in the community for solving common problems
 * [```rustfmt```](https://github.com/rust-lang-nursery/rustfmt) - Automatically format code according to the Rust ecosystem default style.
 * [```cargo edit```](https://github.com/killercup/cargo-edit) - edit cargo dependencies from command line (ala ```npm```)
 * [```cargo watch```](https://github.com/passcod/cargo-watch) - recompile source code as it changes
-* [cargo check](https://github.com/rsolomo/cargo-check) - instead of compiling source code, just get errors and warnings (less time/processor usage)
+* [```cargo check```](https://github.com/rsolomo/cargo-check) - instead of compiling source code, just get errors and warnings (less time/processor usage)
 
 ## Community resources
 
