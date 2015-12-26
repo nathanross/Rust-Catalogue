@@ -1,1 +1,1 @@
-A set of specialized "awesome lists"
+A set of specialized "awesome"-type lists
