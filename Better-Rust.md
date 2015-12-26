@@ -27,6 +27,7 @@ Extremely popular patterns in the community for solving common problems
 * [```crates.io```](https://crates.io)
   * [```cargo``` documentation](http://doc.crates.io/)
 * [```rustdocs.org```](https://rustdocs.org)
+* [```areweideyet.org``` - are we ide yet](https://areweideyet.com) - "awesome list" of various ide plugins for rust support
 
 ## Essential tools - (almost) Universally useful
 
