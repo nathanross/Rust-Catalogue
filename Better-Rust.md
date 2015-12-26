@@ -18,6 +18,8 @@ Extremely popular patterns in the community for solving common problems
 
 ## (almost) Universally useful
 
+* [racer](https://github.com/phildawes/racer) - code completion for rust
+* [rust clippy](https://github.com/Manishearth/rust-clippy) - lints for common mistakes and potential performance improvements
 * [cargo watch](https://github.com/passcod/cargo-watch) - recompile source code as it changes
 * [cargo check](https://github.com/rsolomo/cargo-check) - instead of compiling source code, just get errors and warnings (less time/processor usage)
 
