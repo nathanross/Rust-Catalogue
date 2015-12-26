@@ -12,3 +12,8 @@ Understand out-of-the-box lang and libstd features better to make better use of 
 Extremely popular patterns in the community for solving common problems
 
 [throw!](https://github.com/daboross/rust-throw)
+
+## Community resources
+
+[crates.io](https://crates.io)
+[rustdocs.org](https://rustdocs.org)
