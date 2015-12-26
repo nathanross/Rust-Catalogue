@@ -17,10 +17,11 @@ Extremely popular patterns in the community for solving common problems
 
 [throw!](https://github.com/daboross/rust-throw)
 
-## (almost) Universally useful
+## Essential tools - (almost) Universally useful
 
 * [racer](https://github.com/phildawes/racer) - code completion for rust
 * [rust clippy](https://github.com/Manishearth/rust-clippy) - lints for common mistakes and potential performance improvements
+* [cargo edit](https://github.com/killercup/cargo-edit) - edit cargo dependencies from command line (ala ```npm```)
 * [cargo watch](https://github.com/passcod/cargo-watch) - recompile source code as it changes
 * [cargo check](https://github.com/rsolomo/cargo-check) - instead of compiling source code, just get errors and warnings (less time/processor usage)
 
