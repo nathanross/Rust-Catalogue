@@ -28,4 +28,4 @@ Links to articles that provide high-level overviews of the rust strengths enumer
 
 Links to more resources that cover on a variety of the strengths above.
 
-[Why rust](http://www.oreilly.com/programming/free/files/why-rust.pdf)
+[Why Rust? Trustworthy, concurrent systems programming. A free ebook by OReilly](http://www.oreilly.com/programming/free/files/why-rust.pdf)
