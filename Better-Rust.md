@@ -26,3 +26,8 @@ Extremely popular patterns in the community for solving common problems
 * [rust-lang.org](https://rust-lang.org)
 * [crates.io](https://crates.io)
 * [rustdocs.org](https://rustdocs.org)
+
+
+## Shout-out to
+
+* [cargo-script](https://github.com/DanielKeep/cargo-script)
