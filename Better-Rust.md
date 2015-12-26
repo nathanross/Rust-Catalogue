@@ -15,5 +15,6 @@ Extremely popular patterns in the community for solving common problems
 
 ## Community resources
 
-[crates.io](https://crates.io)
-[rustdocs.org](https://rustdocs.org)
+* [rust-lang.org](https://rust-lang.org)
+* [crates.io](https://crates.io)
+* [rustdocs.org](https://rustdocs.org)
