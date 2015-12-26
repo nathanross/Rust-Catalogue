@@ -13,6 +13,10 @@ Extremely popular patterns in the community for solving common problems
 
 [throw!](https://github.com/daboross/rust-throw)
 
+## (almost) Universally useful
+
+[cargo check](https://github.com/rsolomo/cargo-check)
+
 ## Community resources
 
 * [rust-lang.org](https://rust-lang.org)
