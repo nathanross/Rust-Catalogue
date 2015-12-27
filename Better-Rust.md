@@ -4,14 +4,6 @@ see  [awesome rust](https://github.com/kud1ing/awesome-rust)
 and [rust-learning](https://github.com/ctjhoa/rust-learning)
 
 
-
-Understand out-of-the-box lang and libstd features better to make better use of them in your code!
-
-Because these articles are not explicitly stated to be maintained by a core team, assume some of the information may be incomplete or out of date and make use of them accordingly.
-
-* [Rust String Conversions sheet](https://docs.google.com/spreadsheets/d/19vSPL6z2d50JlyzwxariaYD6EU2QQUQqIDOGbiGQC7Y/pubhtml?gid=0&single=true)
-* [Using the option type effectively](blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html)
-
 ## Community idioms
 
 Extremely popular patterns in the community for solving common problems
